@@ -1,7 +1,7 @@
 http://example.com/repository/index.html
 http://example.com/tags/index.html
-http://example.com/books/index.html
 http://example.com/books%20copy/index.html
+http://example.com/books/index.html
 http://example.com/categories/index.html
 http://example.com/links/index.html
 http://example.com/about/index.html
